@@ -5,7 +5,7 @@ This mod is potentially the first mod for Cosmic Reach (I'm just guessing, I hav
 I am a Linux user who has an Nvidia graphics card and Xwayland tends to have many rendering bugs when running Cosmic Reach so I compiled glfw-wayland for all the platforms Cosmic Reach supports and replaced libglfw.so with the glfw-wayland version and now the game runs in a native Wayland window!
 
 ## How to Install:
-Extract CosmicReachWayland.zip and add the folder labled "linux" to the cosmic reach jar file using your archiving software. Works with both the linux and jar version of Cosmic Reach!
+Extract the Cosmic-Reach-Wayland archive and add the folder labled "linux" to the cosmic reach jar file using your archiving software. Works with both the linux and jar version of Cosmic Reach!
 </br></br>This method should in theory work mostly the same for any lwjgl 3.5 compatible application as well
 
 ## Known Issues:
