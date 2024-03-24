@@ -1,5 +1,5 @@
 # Cosmic-Reach-Wayland (OUTDATED)
-## This mod is now outdated. See [https://github.com/Alex-MacLean/Cosmic-Reach-Wayland](https://github.com/Alex-MacLean/Cosmic-Reach-Wayland). This page was moved to Cosmic-Reach-Wayland-Outdated for historical purposes and inase the newer Fabric mod stops working
+## This mod is now outdated. See [https://github.com/Alex-MacLean/Cosmic-Reach-Wayland](https://github.com/Alex-MacLean/Cosmic-Reach-Wayland). This page was moved to Cosmic-Reach-Wayland-Outdated for historical purposes and incase the newer Fabric mod stops working
 Modified Linux GLFW Natives to force Cosmic Reach (and potentially other lwjgl3 applications) to run in a native Wayland window
 
 I am a Linux user who has an Nvidia graphics card and Xwayland tends to have many rendering bugs when running Cosmic Reach so I compiled glfw-wayland for all the platforms Cosmic Reach supports and replaced libglfw.so with the glfw-wayland version and now the game runs in a native Wayland window!
